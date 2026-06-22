@@ -1,2 +1,0 @@
-# hub-adidasvault
-hubvn-auth
